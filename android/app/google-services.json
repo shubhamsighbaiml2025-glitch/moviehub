@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62072707246",
+    "project_id": "instagram-mini-6ccfa",
+    "storage_bucket": "instagram-mini-6ccfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62072707246:android:50d151a05e35bb04b4353f",
+        "android_client_info": {
+          "package_name": "com.example.instagram_mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHtD7xqAgNGAquF-WK6HFAwuyLv6_Fmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62072707246:android:e6f96b3ba93ef4b4b4353f",
+        "android_client_info": {
+          "package_name": "com.example.movieshub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHtD7xqAgNGAquF-WK6HFAwuyLv6_Fmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
